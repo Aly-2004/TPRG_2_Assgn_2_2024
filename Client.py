@@ -19,7 +19,7 @@ import socket
 import json
 
 #Server details
-host = '192.168.10.111'  #Replace with the Raspberry Pi's IP address
+host = '192.168.10.111'
 port = 5000
 
 #Creates a socket and connect to the server
